@@ -1,0 +1,27 @@
+{
+  "name": "modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naval63/Modal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naval63/Modal/issues"
+  },
+  "homepage": "https://github.com/Naval63/Modal#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  }
+}
